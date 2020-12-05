@@ -69,34 +69,70 @@
 1. Regular Season
    1. Each Team's regular season schedule begins with one Matchup against each of the other Teams in the same Division (in arbitrary order), followed by one Matchup against each of the eight extradivisional Teams (in arbitrary order), followed by another Matchup against each of the other Teams in the same Division (in arbitrary order).
    1. At the conclusion of the regular season the Teams are ranked into the Final Standings according to their win-loss record against all other Teams.
-      1. *FIXME - tie breakers for standings*
+      1. Tiebreakers. In the event of a tie between two or more Teams in their overall win-loss record, a tiebreaker will be employed to assign each Team to a distinct position in the Final Standings.
+         1. Two Teams. If two Teams are tied, the following tiebreakers are applied, in order:
+            1. Head to head record.
+            1. Most points scored in all games.
+            1. Most points scored against in all games.
+            1. Coin Flip to be conducted by Commissioner and witnessed by at least one Owner of a Team not involved in the tiebreaker.
+         1. Three or more Teams. If three or more Teams are tied, the following tiebreakers are applied, in order:
+            1. Head to head record in games played between the tied Teams.
+            1. Most points scored in all games played between the tied Teams.
+            1. Most points scored in all games.
+            1. Most points scored against in all games played between the tied Teams.
+            1. Most points scored against in all games.
+            1. Drawing of Lots to be conducted by Commissioner and witnessed by at least one other Owner of a Team not involved in the tiebreaker.
 1. Playoffs 
-   1. The playoffs are organized as a four-team, two-round, single elimination tournament. The first round is played in week 15 of the season; the second round (the Championship Matchup) is played in week 16 of the season.
-   1. Playoff Matchups may not end in a tie.
+   1. The playoffs are organized as a four-team, two-round, single elimination tournament. The first round (Semifinal) is played in week 15 of the season; the second round (Championship) is played in week 16 of the season.
+   1. Playoff Matchups may not end in a tie. In the event that the opposing Teams in a playoff Matchup earn equal Scores, Matchup tiebreakers will be applied to determine the winner of the Matchup (see §7.2 "Scoring" for further detail).
    1. Four Teams advance to the Playoffs.
-      1. The winner of each Division advances to the playoffs, as determined by the Team's win-loss record against Teams in the same division.
-         1. *FIXME - what are the tie-breakers if the divisonal record is the same?*
-      1. From among the Teams that did not win their division, the Team at the top of the Final Standings advances to the playoffs as a wildcard.
-   1. *FIXME - how are the playoff Matchups seeded?*
+      1. The winner of each Division advances to the playoffs, as determined by the Team's overall win-loss record.
+         1. Tiebreakers.  In the event of a tie, a tiebreaker will be employed to determine the Division winner.
+            1. Two Teams. If two Teams are tied, the following tiebreakers are applied, in order:
+               1. Head to head record.
+               1. Best win-loss record in games played within the Division.
+               1. Most points scored in all games.
+               1. Most points scored in Division games.
+               1. Most points scored against in all games.
+               1. Most points scored against in Division games.
+               1. Coin Flip to be conducted by Commissioner and witnessed by at least one other Owner of a Team not involved in the tiebreaker.
+            1. Three or more Teams. If three or more Teams are tied, the following tiebreakers are applied, in order:
+               1. Head to head record in games played between the tied Teams.
+               1. Best win-loss record in games played within the Division.
+               1. Most points scored in all games between tied Teams.
+               1. Most points scored in Division games.
+               1. Most points scored against in all games between tied Teams.
+               1. Most points scored against in Division games.
+               1. Drawing of Lots to be conducted by Commissioner and witnessed by at least one other Owner of a Team not involved in the tiebreaker.
+      1. From among the Teams that did not win their Division, the Team with the best position in the Final Standings advances to the playoffs as a wildcard.
+   1. Playoff Seeding
+      1. The four playoff Teams will be seeded as follows: seeds #1 through #3 will be awarded to the three Division winners in order of their position in the Final Standings; seed #4 will be awarded to the wildcard.
+      1. The Playoff Semifinal will take place in the following format: #1 Seed vs. #4 Seed; #2 Seed vs. #3 Seed.
+      1. The Championship will take place between the two winners of the Playoff Semifinal.
 
 ## 7. Matchups
 
 1. Roster Format
    1. Each Team has a roster of players. Unless otherwise stated in these Bylaws, each Team's roster may never include more than 14 players.
-   1. Each player is assigned one position.
+      1. For the 2020 season, each Team's roster may include one additional player.
+         1. This player must have an "Out" or "Injured Reserve" injury designation. When this player loses the required injury designation, the Team's roster must be adjusted to remove a player unless another player on the roster carries the required injury designation.
+         1. This player may not be added to the Lineup of their Team.
+   1. Each player is assigned one or more positions.
    1. Each player may be on at most one roster at any time.
    1. For each Matchup, each Team's Owner must set in the Website a valid Lineup consisting of exactly one QB, two RB's, two WR's, one TE, one K, and one DST drawn from the Team's roster.
       1. Each player on a roster Locks at the kickoff of their NFL game for the week. A player may not be added or removed from the Lineup once they are Locked.  All players unlock following the final NFL game of each week.
-      1. If following the final NFL game of the week a Team has failed to set a valid Lineup, that Team forfeits its Matchup for that week. Players still earn points (*FIXME: is this true? It influences points-based standings tiebreakers.*), but the Team records a loss (and their opponent records a win) regardless of the final Scores of the Matchup.
+      1. If following the final NFL game of the week a Team has failed to set a valid Lineup, that Team forfeits its Matchup for that week. Players still earn points, but the Team records a loss (and their opponent records a win) regardless of the final Scores of the Matchup.
       1. A rostered player being on NFL bye, injured reserve, suspension, or not playing for any other reason does not disqualify him from being added to the Lineup at the allowed times. If in a Lineup, such players count towards the positional requirements of a valid Lineup.
+      1. Players on a Team's roster but not in its Lineup comprise the Team's Bench for the Matchup.
    1. A Team's roster persists into the offseason following the conclusion of the Championship Matchup until it is cleared at the start of the following season's Draft.
 
 1. Scoring
    1. The total points earned by each Team's Lineup through the final NFL game of the week is the Team's Score for the Matchup.
    1. In each Matchup, the Team whose Score is greater is the winner; the other Team is the loser. If the Scores earned by both Teams in a Matchup are equal, the Matchup ends in a tie (if permitted).
       1. If a Matchup is not permitted to end in a tie, but both Teams have an equivalent Score, then the following tie-breakers are used:
-         1. *FIXME - what are the tie-breakers?*
-   1. Players earn points according to the following rules. Fractional points are never earned.
+         1. Most points earned by the Team's Bench.  
+         1. Coin Flip to be conducted by the Commissioner and witnessed by at least one other Owner of a Team not involved in the Matchup.
+   1. Players earn points according to the following rules. Fractional points are earned for yardage-based scoring rules.
       1. QB/RB/WR/TE/K:
          1. Passing
             1. Every 25 passing yards = 1pt
@@ -137,29 +173,42 @@
 
 1. Format
    1. The League uses a 14-round snake draft, resulting in 168 total picks.
-   1. The Draft order is decided by a random drawing (or computer simulation of such) that provides each Team a greater chance of being earlier in the order than those Teams that finished higher in the prior season's Final Standings, and a lesser chance of being earlier in the order than those Teams that finished lower in the prior season's Final Standings.
-      1. *FIXME - describe the exact algorithm/process here?*
+   1. The Draft order is decided by Lottery, which is a weighted random drawing (or computer simulation of such). The Lottery provides each Team a greater chance of being earlier in the Draft order than those Teams that finished higher in the prior season's Final Standings, and a lesser chance of being earlier in the order than those Teams that finished lower in the prior season's Final Standings.
+      1. Each Team is assigned a Lottery selection percentage that dictates their likelihood of being selected in the random drawing. A Team's Lottery selection percentage is equal to the Team's position in the Final Standings divided by 78, summarized below.
+
+         | Final Standings Position | Lottery selection percentage |
+         | :--: | :--: |
+         | 12th | 15.38% |
+         | 11th | 14.1% |
+         | 10th | 12.82% |
+         | 9th | 11.54% |
+         | 8th | 10.26% |
+         | 7th | 8.97% |
+         | 6th | 7.69% |
+         | 5th | 6.41% |
+         | 4th | 5.13% |
+         | 3rd | 3.85% |
+         | 2nd | 2.56% |
+         | 1st | 0.13% |
+      1. The Lottery is conducted by the Commissioner and witnessed by at least one Owner.
 1. Keepers
    1. The League uses a modified keeper approach that permits (but does not obligate) each Team's Owner to select one Keeper player for their Team, provided certain conditions are met.
    1. No player that was a Keeper in the prior season's Draft may be a Keeper.
    1. Only a player on the Team's roster at the start of the Draft, before the rosters are cleared, may be a Keeper for that Team. When rosters are cleared at the beginning of the Draft, each Team's Keeper becomes the first player added to their roster, making the Keeper ineligible to be drafted.
    1. To have a Keeper, each Team must forfeit one of its Draft picks unless their Keeper was undrafted in the prior season. If a Team does not have the required pick to forfeit at the start of the Draft then the Keeper is nullified, the Team has no Keeper, and the player is eligible to be drafted by any Team during the Draft. During the Draft, no Team may make a Trade that would cause it to be left with no pick that satisfies their Keeper's pick forfeiture requirement.
-      1. *FIXME - This is where the keeper cost explanation would go. It might look like one of the following.*
-         1. *(Option 1) Each Team must forfeit one of its picks from the Draft round where its Keeper was drafted in the prior season's Draft. Any pick owned by the Team in that round may be forfeited.*
-         1. *(Option 2) Each Team must forfeit their assigned pick (according to the Draft order) from the Draft round where its Keeper was drafted in the prior season's Draft.*
-         1. *(Option 3) Each Team must forfeit one of its picks that occurs no later than the draft position of their Keeper in the prior season's Draft.*
-         1. *(Etc.) ...* 
+      1. Each Team must forfeit their assigned pick (according to the Draft order) from the Draft round where its Keeper was drafted in the prior season's Draft.
 1. Making picks
    1. During the Draft, picks will be recorded either manually or using the Website, at the discretion of the Commissioner.  Each pick will be announced by its Owner, recorded, and then confirmed by that Owner at which time the pick is considered completed.
    1. A completed pick may not be reversed except due to an error or violation of these Bylaws discovered later that would have rendered the pick invalid if known at the time of the pick. Resolution of such a circumstance will be resolved by Vote.
-   1. Each pick will have a time limit of *FIXME - what is the time limit?* to be completed. At the conclusion of this, a warning will be given to the pick's Owner.
+   1. Each pick will have a time limit of 90 seconds to be completed. At the conclusion of this, a warning will be given to the pick's Owner.
    1. The Draft may be paused at any time by mutual agreement of the Owners present and resumed upon their mutual agreement.
    1. If an Owner cannot be physically present, they may make their picks remotely via telepresence.
    1. If an Owner cannot participate in the Draft via physical or telepresence, they may delegate another Owner to make their picks for them while they are not present. The absent Owner may provide in advance as much or as little guidance in how to make the picks to the delegate Owner as they wish. The delegate Owner must make all reasonable attempts to honor this guidance in the best interest of the absent Owner, and must make all reasonable attempts not to unfairly improve their own Draft results through the foreknowledge of this guidance.
       1. If the Website is being used to record the Draft picks, the absent Owner may choose to delegate to the Website itself to make his picks (if such feature is offered by the Website) instead of to another Owner.
       1. If there is reasonable uncertainty in how to correctly interpret the guidance provided by the absent Owner at the time that their pick is due to the made, the Commissioner will make the pick in the best interest of the absent Owner.
    1. A Team is not required to use all of its picks, nor to select any particular mix of player positions with its picks.
-   1. It is possible for a Team to conclude the Draft with more than 14 players on its roster if the Team's Keeper did not require the forfeiture of a Draft pick or the Team acquired additional picks via Trade.  The Team's Owner must reduce the roster to no more than 14 players no later than *FIXME - what is the deadline for this?*
+   1. It is possible for a Team to conclude the Draft with more than 14 players on its roster if the Team's Keeper did not require the forfeiture of a Draft pick or the Team acquired additional picks via Trade.  The Team's Owner must reduce the roster to no more than 14 players (or, in the 2020 season, 15 players if one player carries the required injury designation; see §7.1 "Roster Format") no later than the kickoff of the first game of the NFL regular season.
+
 1. Scheduling
    1. The Draft is held no less than one week and no more than six weeks before the opening game of the NFL season.
    1. The Draft order is decided and announced to all Owners by the Commissioner no less than two weeks before the date of the Draft.
@@ -174,7 +223,6 @@
 1. Trades may involve any number of Teams.
 1. When the Owners of all Teams involved in the Trade agree to the terms of the Trade, the Trade is considered completed and (if necessary) rosters are adjusted. Those Owners should communicate the terms of the trade to the Commissioner, who will announce without undue delay the completed Trade to all Owners.
 1. Trades may be completed at any time, with the following exceptions:
-   1. While any Matchup is in progress. *FIXME - Is this true? Could a trade be made on Sunday if the involved players weren't locked?* 
    1. During the Trade blackout window that begins on the Thursday following the 9th week of the regular season and ends at the conclusion of the Championship Matchup.
 
 ## 10. Waivers and Free Agency
@@ -183,7 +231,7 @@
 1. At the conclusion of the Draft the waiver order is reset to the reverse of the Draft order.
 1. When a Team's waiver claim is filled, the Team is moved to the bottom of the waiver order.
 1. A Team may make as many waiver claims as they wish, including simultaneously.
-1. During the NFL season, waiver claims are processed in the early hours of the morning on Wednesday, Thursday, Friday, and Saturday. Otherwise, waiver claims are processed every day. *FIXME - is this correct?*
+1. During the NFL season, waiver claims are processed in the early hours of the morning on Wednesday, Thursday, Friday, and Saturday. Otherwise, waiver claims are processed every day.
 1. A player on waivers may only be added to a roster by means of a filled waiver claim.
 1. When a player is dropped from a roster, that player is placed on waivers for at least 24 hours. If the player is not added to a roster via filled waiver claim the next time waiver claims are processed following that period, then the player becomes a Free Agent.
 1. Free Agents may be immediately added to any roster that has room.
