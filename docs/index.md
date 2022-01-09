@@ -25,11 +25,13 @@
 
 ## 3. Finances
 
-1. The Entry Fee for the League is $75 per team per season.
+1. The Entry Fee for the League is $85 per team per season.
    1. Each Team's Owner is expected to pay the Entry Fee to the Bursar prior to the start of each season's Draft.  A grace period is offered when reasonable circumstances prevent the Entry Fee from being paid on time.
-1. The Entry Fees collected for all Teams each season form the season's Purse.
-   1. League operational expenses are deducted from the Purse.
-1. At the conclusion of each season, the Purse is paid without undue delay by the Bursar to the Owners by dividing it according to the following formula: 70% to the Champion; 15% to the Runner-Up; 7.5% to each of the remaining two playoff teams.
+1. The Entry Fees collected for all Teams each season form the season's Cash Reserve.
+1. The season's Purse is the season's Cash Reserve less league operational expenses less $120.
+1. At the conclusion of each season, payments are paid without undue delay by the Bursar to Owners as follows:
+   1. A payment of $120 is paid to the winner of the Shootout.
+   1. The entire Purse is paid to Owners by dividing it according to the following formula: 70% to the Champion; 15% to the Runner-Up; 7.5% to each of the remaining two playoff Teams.
    1. If any Team to be paid has multiple Owners, the payment will be split equally among those Owners. 
 
 ## 4. Dispute Resolution
@@ -63,7 +65,7 @@
 
 ## 6. Schedules
 
-1. The season is comprised of 14 weeks of regular season Matchups followed immediately by two weeks of playoff Matchups. These occur during weeks 1-16 of the NFL season.
+1. The season is comprised of 14 weeks of regular season Matchups (occuring during weeks 1-14 of the NFL season) followed by two weeks of playoff Matchups (occuring during weeks 16-17 of the NFL season).
 1. Each Team plays one Matchup per week against one opposing Team.
 1. Each Matchup begins at the kickoff of the first NFL game of the week and ends at the conclusion of the final NFL game of the week.
 1. Regular Season
@@ -83,7 +85,7 @@
             1. Most points scored against in all games.
             1. Drawing of Lots to be conducted by Commissioner and witnessed by at least one other Owner of a Team not involved in the tiebreaker.
 1. Playoffs 
-   1. The playoffs are organized as a four-team, two-round, single elimination tournament. The first round (Semifinal) is played in week 15 of the season; the second round (Championship) is played in week 16 of the season.
+   1. The playoffs are organized as a four-team, two-round, single elimination tournament. The first round (Semifinal) is played in week 16 of the NFL season; the second round (Championship) is played in week 17 of the NFL season.
    1. Playoff Matchups may not end in a tie. In the event that the opposing Teams in a playoff Matchup earn equal Scores, Matchup tiebreakers will be applied to determine the winner of the Matchup (see §7.2 "Scoring" for further detail).
    1. Four Teams advance to the Playoffs.
       1. The winner of each Division advances to the playoffs, as determined by the Team's overall win-loss record.
@@ -113,17 +115,19 @@
 ## 7. Matchups
 
 1. Roster Format
-   1. Each Team has a roster of players. Unless otherwise stated in these Bylaws, each Team's roster may never include more than 14 players.
-      1. For the 2020 season, each Team's roster may include one additional player.
-         1. This player must have an "Out" or "Injured Reserve" injury designation. When this player loses the required injury designation, the Team's roster must be adjusted to remove a player unless another player on the roster carries the required injury designation.
-         1. This player may not be added to the Lineup of their Team.
+   1. Each Team has a roster of players. Unless otherwise stated in these Bylaws, each Team's roster may never include more than 15 players.
+      1. Up to one of these players may be designated as the IR Slot. If no player is designated as the IR Slot then the team's roster may include no more than 14 players.
+         1. This player must have an "Out" or "Injured Reserve" injury designation at the time they are designated as the IR Slot and at the time of any subsequent alterations of the roster.
+         1. If the player designated as the IR Slot later loses the required injury designation, the Team's roster may not be altered until a different rostered player is legally designated as the IR Slot or no player is designated as the IR Slot.
+         1. The player designated as the IR Slot may be changed at any time that the player is not Locked.
+         1. The player designated as the IR Slot may not be added to the Lineup of their Team.
    1. Each player is assigned one or more positions.
    1. Each player may be on at most one roster at any time.
-   1. For each Matchup, each Team's Owner must set in the Website a valid Lineup consisting of exactly one QB, two RB's, two WR's, one TE, one K, and one DST drawn from the Team's roster.
+   1. For each Matchup, each Team's Owner must set in the Website a valid Lineup of eight unique players consisting of exactly one QB, two RB's, two WR's, one TE, one K, and one DST drawn from the Team's roster.
       1. Each player on a roster Locks at the kickoff of their NFL game for the week. A player may not be added or removed from the Lineup once they are Locked.  All players unlock following the final NFL game of each week.
       1. If following the final NFL game of the week a Team has failed to set a valid Lineup, that Team forfeits its Matchup for that week. Players still earn points, but the Team records a loss (and their opponent records a win) regardless of the final Scores of the Matchup.
       1. A rostered player being on NFL bye, injured reserve, suspension, or not playing for any other reason does not disqualify him from being added to the Lineup at the allowed times. If in a Lineup, such players count towards the positional requirements of a valid Lineup.
-      1. Players on a Team's roster but not in its Lineup comprise the Team's Bench for the Matchup.
+      1. Players on a Team's roster but not in its Lineup or designated as the IR Slot comprise the Team's Bench for the Matchup.
    1. A Team's roster persists into the offseason following the conclusion of the Championship Matchup until it is cleared at the start of the following season's Draft.
 
 1. Scoring
@@ -169,7 +173,14 @@
             1. 18-27 points allowed = 2pts
    1. If a player participates in both offense and defense/special teams during his NFL game, his points accrue according to his role in each play: points earned while on offense accrue to the Team (if any) that rosters him as an offensive player and points earned while on defense/special teams accrue to the Team (if any) that rosters his DST.
 
-## 8. Draft
+## 8. Shootout
+
+1. The Shootout is held in week 15 of the NFL season.
+1. The Shootout is a special Matchup that includes all Teams.
+1. The Shootout may not end in a tie. In the event that Teams in the Shootout earn equal Scores, Matchup tiebreakers will be applied to determine the winner of the Shootout (see §7.2 "Scoring" for further detail).
+1. The results of the Shootout do not contribute to the Final Standings.
+
+## 9. Draft
 
 1. Format
    1. The League uses a 14-round snake draft, resulting in 168 total picks.
@@ -216,7 +227,7 @@
    1. The Draft is held at a specific time and location that is mutually agreed upon by all Owners.
 1. At the conclusion of the Draft, it is customary (although not required) to compliment Shaggy on the quality and wisdom of his Draft results.
 
-## 9. Trades
+## 10. Trades
 
 1. Owners may Trade any player on their roster and any unused Draft pick they own.
    1. If the Draft order has not yet been determined, a Trade may designate traded Draft picks by round instead of absolute position.
@@ -225,7 +236,7 @@
 1. Trades may be completed at any time, with the following exceptions:
    1. During the Trade blackout window that begins on the Thursday following the 9th week of the regular season and ends at the conclusion of the Championship Matchup.
 
-## 10. Waivers and Free Agency
+## 11. Waivers and Free Agency
 
 1. The League uses a waiver system for players that are dropped from rosters. 
 1. At the conclusion of the Draft the waiver order is reset to the reverse of the Draft order.
@@ -237,8 +248,8 @@
 1. Free Agents may be immediately added to any roster that has room.
 1. At the conclusion of the Draft, all players not on a roster become Free Agents.
 
-## 11. Accolades and Opprobrium
+## 12. Accolades and Opprobrium
 
 1. The Owners of the Team that wins the Championship Matchup are awarded the League's Frog Trophy at the following season's Draft and are entitled to possess the Trophy during the season. They are also entitled to add their name, Team name, and a small token to the Trophy.
-1. The Owners of the two Teams that finish at the bottom of the Final Standings are obligated to organize and provide, at no cost to anyone beside themselves, lunch at the following season's Draft to those Owners that are physically present.
+1. The Owners of the two Teams that finish at the bottom of the Final Standings are obligated to organize and provide, at no cost to anyone beside themselves, lunch (or commensurate substitute) at the following season's Draft to those Owners that are physically present.
 
